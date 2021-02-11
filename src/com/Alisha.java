@@ -1,13 +1,14 @@
 package com;
 
-/**
- * Created by Alisha on 11/02/2021
- * UPDATE PROGRAM COMMENTS ABOUT PROJECT HERE
- **/
-public class Alisha {
+//Comments at the start again
 
-   public static void main(String[] args)
-   {
-//test
-   }//main
-}//class
+public class Main {
+
+   public static void main(String[] args) {
+      // write your code here
+      //test
+      //Hi Michael
+      //Hello Alisha
+      //Another comment again
+   }
+}
